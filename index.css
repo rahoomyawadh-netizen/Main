@@ -11,10 +11,58 @@ body{
     position: fixed;
     height: 100%;
     width: 100%;
-    background-color: violet;
+    background-color: black;
 
 }
 
-h1{
+header{
     position: relative;
+    height: 50px;
+    top: 0;
+    width: 90%;
+    margin: 5%;
+    display: inline-flex;
+    background-color: rgb(236, 236, 113);
 }
+
+p{
+    position: relative;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blueviolet;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+video{
+    position: relative;
+    top: 100px;
+    width: 90%;
+    height: 150px;
+    margin-left: 5%;
+}
+
+iframe{
+    position: relative;
+    top: 250px;
+    height: 200px;
+    width: 90%;
+    left: 5%;
+
+
+}
+
+.hasna{
+     position: relative;
+     height: 200px;
+     width: 180px;
+
+
+}
+#ali{
+
+    width: 230px;
+
+}
+
+
