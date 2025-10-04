@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: darkorchid;
+    font-size: medium;
+    font-family:'Times New Roman', Times, serif;
+    font-style: unset;
+}
+
+body{
+    position:fixed;
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+
+}
+
+header{
+    position: relative;
+    height: 0px;
+    top: 0;
+    width: 300px;
+    margin: 10%;
+    display: inline flex;
+    background-color: rgb(25, 102, 44);
+}
+
+p{
+    position: relative;
+    margin:auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: bold;
+    font-size:small;
+}
+
+video{
+    position: relative;
+    top: 100px;
+    height: 170px;
+    width: 90%;
+    margin: 10%;
+
+}
+iframe{
+    position: relative;
+    top: 250px;
+    height: 200px;
+    width: 90%;
+    left: 5%;
+}
+
+.maryam{
+    position: relative;
+     height: 190px;
+     width: 200px;
+}
