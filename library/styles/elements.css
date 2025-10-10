@@ -77,3 +77,21 @@ audio{
     margin: 2%;
     display: block;
 }
+
+video{
+    position: relative;
+    width: 95%;
+    height: 50px;
+    background-color: gainsboro;
+    margin: 2%;
+    display: block;
+}
+
+iframe{
+    position: relative;
+    width: 95%;
+    height: 50px;
+    background-color: gainsboro;
+    margin: 2%;
+    display: block;
+}
